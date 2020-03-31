@@ -1,0 +1,3 @@
+The prime directive of these reviews is to answer the students' questions and clarify content they don't understand. Seeing the content from another angle (oustide of lecture and afternoon projects) can help bridge gaps in understanding. I've found it helpful to ask for feedback the day of the review and get a feel for what might be weak spots in their understanding.  
+
+Since today's content was a full day review of JavaScript, this review should be pretty relaxed. If students want to stay try and focus on specific problems that they have struggled with over the week. Try and pinpoint anything they might feel like they need more prep on for tomorrow's skills check. 
